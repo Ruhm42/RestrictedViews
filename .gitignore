@@ -1,3 +1,14 @@
+dist/*
+django_model_utils.egg-info/*
+HGREV
+*.egg-info
+*.pyc
+
+# IDE and editors Files/Folders/Cache etc.
+/.idea
+/*.iml
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
